@@ -1,0 +1,14 @@
+==== Class Manusia =====
+class Manusia adalah tempat untuk pemanggilan pewarisan dari class Keturunan dan class Tingkah laku.
+
+==== Class Keturunan ====
+class Keturunan berisi subclass dimana pewarisnya manusia adalah jenis kelamin Laki-laki 
+dan Perempuan.
+
+====Class Tingkah Laku ====
+class Tingkah Laku berisi access protected dimana classnya dapat dipanggil di satu class,
+package dan subclass.
+
+dari program tersebut dapat disimpulkan bahwa program pewarisan, overriding dan access protected 
+pada class dapat menampilkan class pada keturunan dan class tingkah laku dalam satu class ,package 
+dan subclass.
